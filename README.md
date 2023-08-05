@@ -13,6 +13,6 @@ Demo Site : <a href="https://slot-demo.nandz.my.id">See Demo</a>
 
 # Let's connect with me!
 <p>
-    <a href="https://slot-demov9.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-https://nandz.my.id-blue?" /></a>
+    <a href="https://slot-demov9.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-https://slot-demov9.netlify.app/-blue?" /></a>
    
 </p> 
